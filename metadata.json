@@ -1,0 +1,6 @@
+{
+  "name": "Peraí",
+  "description": "Proteja-se de golpes, assinaturas abusivas e contratos ruins com a análise rápida do Peraí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
